@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm [Shivam Kumar]!
 
-<!--
-**svm00/svm00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer / student / tech enthusiast who loves building things with code and learning new technologies.
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I work with: `Python`, `JavaScript`, `C++`, `Java`, or whatever you know
+- 🌱 I'm currently learning: `React`, `Node.js`, `Machine Learning`, etc.
+- 💼 Interested in: Software Development, Open Source, AI/ML
+- 📫 How to reach me: [krsvm243@gmail.com] or [LinkedIn profile](https://www.linkedin.com/in/shivam-kumar-b43887321/)
+
+---
+
+Thanks for stopping by! Feel free to check out my work or connect with me 😊
+
