@@ -5,7 +5,7 @@ I'm a passionate Developer👨‍💻,Student🧑‍🎓,Tech enthusiast💻 who
 
 - 🛠️ I work with: `Python`, `JavaScript`, `C++`, `Java`,`Dart`.
 - 🌱 I'm currently learning: `React`, `Node.js`, `Flutter`.
-- 💼 Interested in: Software Development, Open Source, AI/ML,Android Development.
+- 💼 Interested in: Software Development, Open Source, AI/ML, Android Development.
 -  ## 📫 How to reach me:
 -  [krsvm243@gmail.com]
 -  <a href="https://www.linkedin.com/in/shivam-kumar-b43887321/" target="_blank">
