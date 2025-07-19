@@ -1,5 +1,4 @@
 # 👋 Hi, I'm [Shivam Kumar]!
-<img align="right" height="180" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif"  />
 I'm a passionate Developer👨‍💻,Student🧑‍🎓,Tech enthusiast💻 who loves building things with code and learning new technologies.
 
 ## 💡 About Me
